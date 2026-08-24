@@ -1,10 +1,1 @@
-Portfolio V3
-
-This version adds visual project previews and direct GitHub links.
-
-Verified project sources used:
-- Sales Performance Dashboard: https://github.com/Iamdebarghya/Sales-performance---Dashboard-python
-- HR Dashboard: https://github.com/Iamdebarghya/hr-dashboard-adv-excel
-- LinkedIn Scraper: https://github.com/Iamdebarghya/LinkedIn-Scraperr
-
-Important: visual previews are clearly labelled as illustrations where they are not actual screenshots. Do not present them as original screenshots.
+Portfolio V4. Includes actual HR repository screenshot, a sales visual generated from the repository dataset, and a LinkedIn scraper workflow based on repository documentation. Replace the existing GitHub Pages index.html and upload the PNG assets alongside it.
