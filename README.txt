@@ -1,13 +1,10 @@
-Debarghya Hajra Portfolio - Final V2
+Portfolio V3
 
-Links configured:
-LinkedIn: https://www.linkedin.com/in/deb-hajra
-GitHub: https://github.com/lamdebarghya
+This version adds visual project previews and direct GitHub links.
 
-To publish:
-1. Create a GitHub repository, for example: debarghya-portfolio
-2. Upload index.html.
-3. Enable GitHub Pages in repository Settings > Pages.
-4. Use the generated live URL in LinkedIn Featured.
+Verified project sources used:
+- Sales Performance Dashboard: https://github.com/Iamdebarghya/Sales-performance---Dashboard-python
+- HR Dashboard: https://github.com/Iamdebarghya/hr-dashboard-adv-excel
+- LinkedIn Scraper: https://github.com/Iamdebarghya/LinkedIn-Scraperr
 
-The project content is based on the supplied CV.
+Important: visual previews are clearly labelled as illustrations where they are not actual screenshots. Do not present them as original screenshots.
